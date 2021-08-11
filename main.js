@@ -15,7 +15,7 @@ function setup()
 
 function preload()
 {
-   img = loadImage('dog_cat.jpg');
+   
 }
 
 function draw()
